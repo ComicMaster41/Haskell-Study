@@ -1,3 +1,5 @@
+--  Type Classes, List Comprehensions, Guards
+
 addPairs :: Num a => [a] -> [a] -> [a]
 addPairs [] _ = []
 addPairs _ [] = []
