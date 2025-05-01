@@ -1,7 +1,4 @@
--- Haskell Practice Exercises Summary
--- Cleaned and organized version of all progress, formatted for GitHub or local study.
-
--- Week 1: Types and Simple Functions
+-- Types and Simple Functions
 
 x :: Integer
 x = 10
