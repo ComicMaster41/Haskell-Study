@@ -1,3 +1,5 @@
+-- map, filter, foldr, and Lambdas
+
 -- Factors of x (excluding 1 and x)
 x = 12
 factors = [y | y <- [2..(x - 1)], mod x y == 0]
